@@ -1,0 +1,1 @@
+{{ cookiecutter.hooks.pre_gen_project() }}

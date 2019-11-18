@@ -1,0 +1,8 @@
+{
+  "package_name": "{{ cookiecutter.hooks.package_name() }}",
+  "gitbucket_repository": "{{ cookiecutter.hooks.gitbucket_repository() }}",
+  "gitbucket_username": "{{ cookiecutter.hooks.gitbucket_username() }}",
+  "shimadzu_email": "{{ cookiecutter.hooks.shimadzu_email() }}",
+  "package_version": "{{ cookiecutter.hooks.package_version() }}",
+  "package_description": "{{ cookiecutter.hooks.package_description() }}"
+}
